@@ -1,2 +1,2 @@
-# DOxi
-DOxi - A Crypto Multi-Mercado
+# DOXi
+DOXi - A Moeda Pet
