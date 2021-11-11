@@ -15,6 +15,9 @@
    
    // DOXi is a multi-market token with a focus on the Pet and cybersecurity market - Look https://www.mydoxi.com
    
+   # My DOXi is a decentralized token of the BSC - BEP-20 network, developed to contribute to the resolution of high-impact social problems, 
+   having as its initial line of action the pet market
+   
  */
 
 pragma solidity ^0.6.12;
